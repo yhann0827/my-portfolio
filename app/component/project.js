@@ -262,9 +262,9 @@ const Project = () => {
             </div>
             <div className="items-center mb-5 font-sans font-semibold text-center text-gray-500 w-80">
               <p>
-                In my university's user interface course, I created a responsive video player in C++. This project showcases my ability to apply user
-                interface principles effectively, resulting in an intuitive and visually appealing user experience. It received a first-class grade,
-                reflecting its exceptional quality.
+                In my university&apos;s user interface course, I created a responsive video player in C++. This project showcases my ability to apply
+                user interface principles effectively, resulting in an intuitive and visually appealing user experience. It received a first-class
+                grade, reflecting its exceptional quality.
               </p>
             </div>
 
@@ -410,9 +410,9 @@ const Project = () => {
               </div>
               <div className="items-center mb-5 font-sans font-semibold text-center text-gray-500 w-80">
                 <p>
-                  In my university's user interface course, I created a responsive video player in C++. This project showcases my ability to apply
-                  user interface principles effectively, resulting in an intuitive and visually appealing user experience. It received a first-class
-                  grade, reflecting its exceptional quality.
+                  In my university&apos;s user interface course, I created a responsive video player in C++. This project showcases my ability to
+                  apply user interface principles effectively, resulting in an intuitive and visually appealing user experience. It received a
+                  first-class grade, reflecting its exceptional quality.
                 </p>
               </div>
               <div className="flex mb-5">

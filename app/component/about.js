@@ -37,7 +37,7 @@ const About = () => {
             ABOUT ME
           </p>
           <p className="mt-2 font-extrabold text-center " style={{ fontSize: "23px" }}>
-            I'm a Front End and Software Developer from Malaysia.
+            I&apos;m a Front End and Software Developer from Malaysia.
           </p>
           <p className="mt-2 text-center text-gray-500 " style={{ fontSize: "16px" }}>
             As a Junior Front-End Developer, I bring a diverse range of proficiencies encompassing HTML, CSS, JavaScript, React, Tailwind, SCSS,

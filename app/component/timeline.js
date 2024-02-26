@@ -133,8 +133,8 @@ export default function CustomizedTimeline() {
               </p>
               <p>
                 &#8226; Translated the designed UI into a functional website using React, TypeScript, and Material-UI, effectively bringing the
-                client's vision to life and receiving recognition for delivering an impressive user experience, , resulting in a 20% increase in user
-                engagement metrics .
+                client&apos;s vision to life and receiving recognition for delivering an impressive user experience, , resulting in a 20% increase in
+                user engagement metrics .
               </p>
             </div>
           </Typography>
