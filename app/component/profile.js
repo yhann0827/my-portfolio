@@ -115,7 +115,7 @@ const About = () => {
         </div>
         <div className="mt-8 text-center">
           <p className="font-bold " style={{ fontSize: "34px" }}>
-            Front-End Web Developer <FontAwesomeIcon icon={faLaptopCode} style={{ fontSize: "45px", color: "#4a01b7" }} />
+            Front-End Web Developer
           </p>
           <p className="mt-4 text-gray-500" style={{ fontSize: "17px" }}>
             Hi, I am Yong Hann. A passionate front-end web developer. I design and build user interfaces.
