@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import Image from "next/image";
-import compimg from "public/images/comp.png";
+import compimg from "public/images/comp.PNG";
 import tomeo from "public/images/tomeo.jpg";
 import Button from "@mui/material/Button";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -9,7 +9,7 @@ import { faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faArrowUpRightFromSquare, faVideo } from "@fortawesome/free-solid-svg-icons";
 import hotweather from "public/images/hotweather.PNG";
 import coldweather from "public/images/coldweather.PNG";
-import icaiare1 from "public/images/icaiare1.PNG";
+import icaiare1 from "public/images/icaiare1.png";
 import icaiare2 from "public/images/icaiare2.png";
 import icaiare3 from "public/images/icaiare3.png";
 import icaiare4 from "public/images/icaiare4.png";
@@ -37,7 +37,7 @@ import connect8 from "public/images/connect8.png";
 import connect9 from "public/images/connect9.png";
 import connect10 from "public/images/connect10.png";
 import connect11 from "public/images/connect11.png";
-import chatgptclone from "public/images/chatgptclone.png";
+import chatgptclone from "public/images/chatgptclone.PNG";
 import ImageCarousel from "./imagecarousel";
 
 const Project = () => {

@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import compimg from "public/images/comp.png";
+import compimg from "public/images/comp.PNG";
 const About = () => {
   return (
     <>
