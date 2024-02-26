@@ -1,6 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLaptopCode } from "@fortawesome/pro-light-svg-icons";
+// import { faLaptopCode } from "@fortawesome/pro-light-svg-icons";
 import Image from "next/image";
 import nextimg from "public/images/next.png";
 import tsimg from "public/images/typescript.png";
@@ -33,7 +33,7 @@ const About = () => {
         <div className="flex justify-center">
           <div className="w-5/12 mr-16">
             <p className="font-bold " style={{ fontSize: "54px" }}>
-              Junior Software Engineer <FontAwesomeIcon icon={faLaptopCode} style={{ fontSize: "45px", color: "#4a01b7" }} />
+              Junior Software Engineer
             </p>
             <p className="mt-4 text-gray-500" style={{ fontSize: "18px" }}>
               Hi, I am Yong Hann. A passionate sofware engineer. I innovate and create impactful solutions.
